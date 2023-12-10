@@ -1,6 +1,6 @@
 # Karmik-Barodia
 <h1 align="center">Hi 👋, I'm Karmik Barodia</h1>
-<h3 align="center">I'm in my 2nd year, pursuing Computer Science Engineering with a specialization in Software Engineering from SRM Institute of Science and Technology, Kattankulathur</h3>
+<h3 align="center">I'm in my 3rd year, pursuing Computer Science Engineering with a specialization in Software Engineering from SRM Institute of Science and Technology, Kattankulathur</h3>
 
 - 🔭 I’m currently working on **Crypt Raider**
 
